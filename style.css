@@ -1,0 +1,32 @@
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+}
+p, a{
+    font-family: 'Poppins', sans-serif;
+} 
+.highlight{
+    font-size: 37px;
+	line-height: 35px;
+	color: #777676;
+	text-align: center;
+}
+.gallery-card{
+    border: 0;
+
+}
+.gallery-card img:hover{opacity:0.6;}
+
+.social a{
+	font-size: 20px;
+	color: rgb(22, 21, 21);
+	background: #d8ab8a;
+    /* border: 1px solid #e0945d; */
+    border-radius: 3px;
+	padding: 5px 5px;
+}
+.social a:hover{
+	background: #DC3545;
+	color: white;
+}
